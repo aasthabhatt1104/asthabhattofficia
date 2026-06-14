@@ -85,14 +85,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asthabhattofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthabhattofficial&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=aasthabhatt1104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthabhatt1104&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com?user=asthabhattofficial&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.demolab.com?user=aasthabhatt1104&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -103,7 +103,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Astha%20Bhatt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asthabhattofficial/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asthabhattofficial)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aasthabhatt1104)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 </div>
